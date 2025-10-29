@@ -1,0 +1,11 @@
+[rcsss]
+host = "127.0.0.1"
+port = 6000
+
+[udp_proxy]
+host = "127.0.0.1"
+port = 0                # set to 0 to ask the OS to assign a port
+
+[ws]
+host = "0.0.0.0"
+port = 443
