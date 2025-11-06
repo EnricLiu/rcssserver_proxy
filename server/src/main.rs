@@ -1,6 +1,7 @@
 mod config;
 mod websocket;
 mod error;
+mod client;
 
 use config::Config;
 use websocket::Server;
